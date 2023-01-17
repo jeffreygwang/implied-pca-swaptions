@@ -1,10 +1,12 @@
-# swaptions
+# Identifying Regime Shifts from Implied PCA
 
-# Task List
-- [ ] Run normal PCA on **swap yield curve data** with a 3m, 6m, and 1y window
-- [ ] Run implied PCA on **swap yield curve options** data with a 3m, 6m, and 1y window
-- [ ] **Write-up**: Writing up the math precisely (LaTeX?) for implied PCA
-- [ ] **Graph**: Graph PC1 contribution for normal PCA on backward data 
-- [ ] **Graph**: Graph PC1 contribution for normal PCA on backward data 
+Repo breakdown:
+```
+methods.ipynb / analysis notebook
+data
+  fed_data    / bal sheet, ffr, etc. 
+  swap_rates  / raw swap rates (sofr/libor)
+  swaptions   / swaption vol, swap spread options vol, etc. 
+```
 
 
