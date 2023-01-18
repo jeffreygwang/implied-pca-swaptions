@@ -1,5 +1,7 @@
 # Identifying Regime Shifts from Implied PCA
 
+### **[See Paper Here.](https://drive.google.com/file/d/1fZC0Ho_vu-3aAySx8ZQ2ODebPp9ILClr/view?usp=sharing)**
+
 Repo breakdown:
 ```
 methods.ipynb / analysis notebook
